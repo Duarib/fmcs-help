@@ -1,5 +1,5 @@
 ---
-description: 'Updated: 10/09/2019'
+description: 'Updated: 12/09/2019'
 ---
 
 # The TOS, Explained
