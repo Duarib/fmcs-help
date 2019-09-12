@@ -1,7 +1,6 @@
 # Table of contents
 
 * [FMCS HELP FAQ](README.md)
-* [Terms of Service](TOS.md)
 * [YouTube Channel](youtube-channel.md)
 
 ## Java
@@ -15,3 +14,5 @@
 * [Bedrock FAQ](bedrock/bedrock-faq.md)
 * [Nukkit Plugin FAQ](bedrock/nukkit-plugin-faq.md)
 
+## TOS
+* [TOS](TOS/TOS.md)
