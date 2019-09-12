@@ -63,7 +63,7 @@ No, due to security reasons, freemcserver does not support or allow the use of B
 
 ## Conduct, General Prohibitions
 
-1. ttempt to access or search the Services or Content or download Content from the Services through the use of any technology or means other than those provided by us or other generally available third party web browsers (including without limitation automation software, bots, spiders, crawlers, data mining tools, or hacks, tools, agents, engines, or devices of any kind);
+1. attempt to access or search the Services or Content or download Content from the Services through the use of any technology or means other than those provided by us or other generally available third party web browsers (including without limitation automation software, bots, spiders, crawlers, data mining tools, or hacks, tools, agents, engines, or devices of any kind);
 
 2. attempt to decipher, decompile, disassemble, or reverse engineer any of the software used to provide the Services or Content bypass, remove, deactivate, descramble, or otherwise circumvent any technological measure implemented by us or any of our providers or any other third party (including another user) to protect the Services or Content;
 
