@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FMCS HELP FAQ](README.md)
+* [Terms of Service](TOS.md)
 * [YouTube Channel](youtube-channel.md)
 
 ## Java
