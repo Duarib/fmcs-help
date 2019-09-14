@@ -18,7 +18,7 @@ Freemcserver.net support staff get asked this a lot of times. The answer that is
 
 Let's start off with the most common files:
 
-* II.2 File Uploads and Server Content - any cracked plugin or mod - cracked plugins are plugins that are downloaded for free when the official plugin is set at a price. If the plugin is not cracked and has been properly bought and you have been suspended for it then click [here]() for instructions.
+* II.2 File Uploads and Server Content - any cracked plugin or mod - cracked plugins are plugins that are downloaded for free when the official plugin is set at a price. If the plugin is not cracked and has been properly bought and you have been suspended for it then click [here](java-plugin-faq.md) for instructions.
 * VI.12 Conduct, General Prohibitions - Run any kind of bot \(including, but not limited to, Discord or Teamspeak Bots\) - Bots are not allowed due to security reasons. So any kind of plugin like DiscordSRV or DiscordChat is not allowed.
 
 ## My server got suspended for a plugin I bought?

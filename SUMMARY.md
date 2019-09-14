@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FMCS HELP GUIDE](README.md)
+* [FREEMCSERVER HELP GUIDE](README.md)
 * [YouTube Channel](youtube-channel.md)
 * [Terms of Service](tos.md)
 

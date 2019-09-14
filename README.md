@@ -2,7 +2,7 @@
 description: 'Updated: 14/09/2019'
 ---
 
-# FMCS HELP GUIDE
+# FREEMCSERVER HELP GUIDE
 
 * FMCS HELP GUIDE - [LINK](./)
 * Youtube Channel - [LINK](youtube-channel.md)
