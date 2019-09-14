@@ -1,5 +1,5 @@
 ---
-description: 'Updated: 28/06/2019'
+description: 'Updated: **/**/****'
 ---
 
 # Bedrock FAQ
