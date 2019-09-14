@@ -1,5 +1,5 @@
 ---
-description: 'Updated: **/**/****'
+description: 'Updated: 14/09/2019'
 ---
 
 # Terms of Service
